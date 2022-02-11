@@ -1,6 +1,8 @@
+import UserResults from "../users/UserResults";
+
 function Home() {
     return (<div>
-        Home
+       <UserResults/>
     </div>);
 }
 
